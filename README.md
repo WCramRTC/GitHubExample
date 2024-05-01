@@ -1,5 +1,7 @@
 # GitHubExample
 
+Hi Brian
+
 Absolutely! Here's a checklist version of the Git and GitHub learning topics:
 
 **Git - Foundational**
